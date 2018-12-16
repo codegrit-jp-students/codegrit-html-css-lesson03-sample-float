@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body, div {
+  margin: 0;
+  padding: 0;
+}
+
+.element1 {
+ background-color: yellow;
+ width: 150px;
+ height: 150px;
+ float: left;
+}
+.element2 {
+ background-color: blue;
+ width: 150px;
+ height: 150px;
+ float: left;
+}
+.element3 {
+ background-color: red;
+ width: 550px;
+ height: 150px;
+ clear: both;
+}
